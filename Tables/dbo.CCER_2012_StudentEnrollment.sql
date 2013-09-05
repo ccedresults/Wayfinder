@@ -1,6 +1,6 @@
 CREATE TABLE [dbo].[CCER_2012_StudentEnrollment]
 (
-[SchoolYear] [varchar] (50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+[SchoolYear3] [varchar] (50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 [DistrictCode] [varchar] (50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 [DistrictName] [varchar] (500) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 [ResidentDistrictCode] [varchar] (50) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
